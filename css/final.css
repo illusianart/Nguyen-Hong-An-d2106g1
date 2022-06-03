@@ -1,0 +1,220 @@
+.header {
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+.logo a {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+.header {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5823823735955056) 0%, rgba(0, 0, 0, 0.2762025983146067) 100%);
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.btn {
+    padding: 10px 32px;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.432);
+    margin-left: 505px
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav li {
+    margin: 24px;
+}
+
+.nav li a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    transition-duration: 0.5s;
+    font-weight: normal;
+}
+
+.nav li a:hover {
+    opacity: 0.8;
+    color: rgba(236, 236, 236, 0.719);
+}
+
+.banner video {
+    width: 2600px;
+    height: 1000px;
+    object-fit: cover;
+}
+
+.banner {
+    height: 800px;
+}
+
+.box {
+    width: 575px;
+    height: 230px;
+    padding: 18px 27px;
+    position: absolute;
+    margin-top: 250px;
+}
+
+.box h1 {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.315);
+}
+
+.box2 {
+    background-color: rgba(7, 7, 7, 0.548);
+    padding: 20px;
+    transition-duration: 0.5s;
+    z-index: 1000;
+    position: absolute;
+    margin-left: 170px;
+}
+
+.box2 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    letter-spacing: 6px;
+
+}
+
+.box2 a:hover {
+    opacity: 0.8;
+    color: rgba(236, 236, 236, 0.719);
+}
+
+.more-info {
+    margin-top: 220px;
+}
+.campaigns{
+    width: 100%;
+    text-align: center;
+}
+.campaigns a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1.5px;
+    font-weight: 600;
+    color: black
+}
+
+.campaigns a:hover {
+    opacity: 0.8;
+    color: rgb(0, 0, 0);
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+
+}
+
+.Another {
+    width: 100%;
+}
+
+.feature {
+    margin: 30px 20px;
+}
+
+.feature a {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.feature a:hover {
+    opacity: 0.8;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.content p {
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.find{
+    margin-top: 30px;
+    margin-left: 20px;
+    line-height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.footer-main{
+    height: 300px;
+    
+    
+}
+.find a{
+    text-decoration: none;
+    color: white;
+    
+}
+.help{
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.514);
+    font-weight: 100;
+}
+.help:hover{
+    opacity: 0.8;
+    -webkit-text-fill-color: rgb(255, 255, 255);
+}
+.col-3 img{
+    width: 33px;
+    height: 33px;
+    margin-left: 27px;
+    margin-top: 35px;
+}
+.col-12 p{
+    color: rgba(255, 255, 255, 0.493);
+    margin-left: 30px;
+    font-size: 14px;
+    
+}
+
+.col-12 a{
+    text-decoration: none;
+    color: white;
+    margin-left: 8px;
+    font-size: 14px;
+}
+.col-12 img{
+    margin-left: 8px;
+    width: 15px;
+    height: 15px;
+}
+.het li{
+    margin: 20px;
+    margin-top: 10px;
+}
+.het li:hover{
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+}
+.het ul{
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.514);
+    list-style: none;
+    
+}
+.icon{
+    align-self: auto;
+}
+
+
+
+
+
